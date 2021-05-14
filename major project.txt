@@ -1,0 +1,19 @@
+<p class="duration">{{movieDetails.Duration}} mins</p>  
+movie card in vscode. 
+
+
+
+
+cmd:
+npm install
+ng add @angular/material->custom->yes->yes
+npm install bootstrap@next
+npm install --save jquery
+npm install -D @types/jquery
+npm install ngx-toastr --save
+npm install ngx-input-star-rating --save
+npm update
+npm start
+npm i -D typescript@4.1.5
+npm start
+ng serve
