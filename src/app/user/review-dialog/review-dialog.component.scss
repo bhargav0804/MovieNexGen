@@ -1,0 +1,17 @@
+.share-full-width{
+    width:100%;
+}
+.saveBtn {
+	color: #e5e5e5;
+	background-color: #252525;
+	&:disabled {
+		cursor: not-allowed;
+        color: #e5e5e5;
+	}
+	&:not([disabled]) {
+		&:hover {
+			color: #F5C900;
+			background-color: #252525;
+		}
+	}
+}

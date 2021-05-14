@@ -1,0 +1,11 @@
+<div [ngClass]=" role != '' ? 'header-main justify-content-between align-items-center d-flex p-3' : 'header-main justify-content-center align-items-center d-flex '"> 
+    <p class="color-primary">MovieNex</p>
+   
+    <button
+    mat-flat-button
+    (click)="logout()"
+    color="primary"
+    *ngIf="role != ''"
+   
+  >Logout</button>
+</div>

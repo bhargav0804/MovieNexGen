@@ -1,0 +1,135 @@
+<app-header></app-header>
+<div class="d-flex content">
+  <mat-card class="shadow-lg">
+    <div>
+    <div class="text-center">
+      <mat-card-title>SIGN UP</mat-card-title>
+    </div>
+    <mat-card-content>
+      <form class="example-form" autocomplete="off" [formGroup]="registerForm">
+        <div class="w-100 row mx-0" cellspacing="0">
+              <mat-form-field
+                color="accent"
+                appearance="standard"
+                class="w-100 col-md-6 col-12 pl-0 pr-1"
+              >
+                <mat-label>First name</mat-label>
+                <input type="text" spellcheck="false" formControlName="firstName"  
+                matInput required/>
+                <mat-error *ngIf="firstName.errors?.minlength">Must have minimum 3 alphabets</mat-error>
+                <mat-error *ngIf="firstName.errors?.maxlength">Should not exceed 15 alphabets</mat-error> 
+                <mat-error *ngIf="firstName.errors?.pattern">Must contain only alphabets</mat-error> 
+                <mat-error *ngIf="firstName.errors?.required">Firstname field is <strong>required</strong></mat-error>
+              </mat-form-field>
+              <mat-form-field
+                color="accent"
+                appearance="standard"
+                class="w-100 col-md-6 col-12 pl-1 pr-0"
+              >
+                <mat-label>Last name</mat-label>
+                <input type="text" spellcheck="false" formControlName="lastName" matInput required/>
+                <mat-error *ngIf="lastName.errors?.minlength">Must have minimum 3 alphabets</mat-error> 
+                <mat-error *ngIf="lastName.errors?.maxlength">Should not exceed 15 alphabets</mat-error> 
+                <mat-error *ngIf="lastName.errors?.pattern">Must contain only alphabets</mat-error> 
+                <mat-error *ngIf="lastName.errors?.required">Lastname field is <strong>required</strong></mat-error>
+              </mat-form-field>
+        </div>
+
+      
+        <mat-form-field color="accent" appearance="standard" class="w-100">
+          <mat-label>Email</mat-label>
+          <input
+            type="email"
+            spellcheck="false" formControlName="email" 
+            matInput
+            placeholder="User@cybage.com"
+          />
+          <mat-icon matSuffix>email</mat-icon>
+          <mat-error *ngIf="email.errors?.required">Email field is required</mat-error> 
+          <mat-error *ngIf="email.errors?.pattern">Enter a valid email Id</mat-error>
+        </mat-form-field>
+        <mat-form-field color="accent" appearance="standard" class="w-100">
+          <mat-label>Mobile number:</mat-label>
+          <input type="text" spellcheck="false" formControlName="phoneNumber"  matInput required/>
+          <mat-icon matSuffix>phone</mat-icon>
+          <mat-error *ngIf="phoneNumber.errors?.required">Mobile No. field is <strong>required</strong></mat-error>
+          <mat-error *ngIf="phoneNumber.errors?.maxlength">Should not exceed 10 numbers</mat-error>
+          <mat-error *ngIf="phoneNumber.errors?.pattern">Should start with number from 6 to 9 and have 10 numbers</mat-error>
+        </mat-form-field>
+
+        <mat-form-field color="accent" appearance="standard" class="w-100">
+          <mat-label>Password</mat-label>
+          <input
+            matInput
+            type="password"
+            formControlName="password"
+            required
+          />
+          <mat-error *ngIf="password.errors?.required">password field is <strong>required</strong></mat-error>
+          <mat-error *ngIf="password.errors?.minlength">Must have minimum 8 alphabets</mat-error>
+          <mat-error *ngIf="password.errors?.maxlength">Should not exceed 15 numbers</mat-error>
+          <mat-error *ngIf="password.errors?.pattern">Should have 1 Uppercase, 1 Lowercase, 1 Number and 1 Special Character</mat-error>
+        </mat-form-field>
+        <mat-form-field color="accent" appearance="standard" class="w-100">
+          <mat-label>Re-enter Password</mat-label>
+          <input
+            matInput
+            type="password"
+            formControlName="confirmPassword"
+            required 
+          />
+          <mat-error *ngIf="confirmPassword.errors?.required">password field is <strong>required</strong></mat-error>
+          <mat-error *ngIf="confirmPassword.errors?.mustMatch">
+            Passwords do not match
+          </mat-error> 
+
+        </mat-form-field>
+        <div class="w-100 row mx-0" cellspacing="0">
+
+              <mat-form-field
+                color="accent"
+                appearance="standard"
+                class="form-field w-100 col-md-6 col-12 pl-0 pr-1"
+
+              >
+                <mat-label>Enter Date Of Birth</mat-label>
+                <input matInput formControlName="dateOfBirth" 
+                [matDatepicker]="datepicker" [max]="today" required/>
+                <mat-error *ngIf="dateOfBirth.errors?.required">
+                  Date of birth is <strong>required</strong>
+                </mat-error>
+                <mat-datepicker-toggle matSuffix [for]="datepicker">
+                </mat-datepicker-toggle>
+                <mat-datepicker color="accent" #datepicker>
+                  <mat-datepicker-actions>
+                    <button mat-button matDatepickerCancel>Cancel</button>
+                    <button mat-raised-button color="accent" matDatepickerApply>
+                      Apply
+                    </button>
+                  </mat-datepicker-actions>
+                </mat-datepicker>
+              </mat-form-field>
+         
+              <!-- <mat-form-field color='accent' appearance="standard"> -->
+              <div class=" w-100 col-md-6 col-12 pl-0 pr-1">
+                <div>
+                  <label>Gender</label>
+                </div>
+                <mat-radio-group aria-label="Select an option" formControlName="gender" >
+                  <mat-radio-button value="male" class="mr-2" required
+                    >Male</mat-radio-button
+                  >
+                  <mat-radio-button value="female" required>Female</mat-radio-button>
+                </mat-radio-group>
+              </div>
+              <!-- </mat-form-field> -->
+        </div>
+        <div class="text-center">
+          <button mat-flat-button color="accent" 
+          [disabled]="registerForm.invalid" class="w-100" (click)="register()">Register</button> <br /><br />
+        </div>
+      </form>
+    </mat-card-content>
+  </div>
+  </mat-card>
+</div>

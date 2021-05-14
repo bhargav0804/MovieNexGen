@@ -1,0 +1,14 @@
+<div class="container-fluid main-container p-5 content">
+  <h1>{{type}}</h1>
+  <div class="row">
+  
+
+      <ng-container *ngFor="let movie of movieData">
+     
+        <app-movie-card
+          class="col-xl-3 col-lg-4 col-md-6 col-xs-12 p-3"
+          [movieDetails]="movie"
+        ></app-movie-card>
+      </ng-container>
+  </div>
+</div>

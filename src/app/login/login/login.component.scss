@@ -1,0 +1,77 @@
+.content{
+    
+    padding-top: 100px;
+    padding-bottom: 40px;
+    min-width: min-content;
+    height: max-content;
+    width: 100%;
+    min-height: 90vh;
+    
+    background: url(../../../assets/background-final.jpg) no-repeat center center fixed; 
+    
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+mat-card{
+    background: rgba($color: #ffffff, $alpha: 0.7);
+    min-width: 250px;
+    width: 35%;
+    min-height: 300px;
+    height: 40vh;
+    max-height: 400px;
+    max-width:500px ;
+    margin-right: 10vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+input{
+    font-size: medium;
+}
+
+mat-label{
+    font-size: medium;
+}
+.registerLink{
+    padding: 4px 8px;
+    color: #252525;
+    font-weight:500;
+    margin-top: 12px;
+    border-radius: 5px;
+}
+.registerLink:hover{
+    cursor: pointer;
+    background: #252525;
+    color: #f5c900;
+    transition: 0.6s;
+}
+mat-icon{
+    cursor: pointer;
+}
+
+.forgetpasswordLink{
+    color:#252525
+}
+
+.forgetpasswordLink:hover{
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .content {
+        justify-content: center;
+    }
+    mat-card{
+        margin: 0;
+        width: 80%;
+
+    }
+  }

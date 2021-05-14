@@ -1,0 +1,56 @@
+.sidebar {
+    margin: 0;
+    padding: 0;
+    left: 0;
+    // width: 100%;
+    background-color: #464646;
+    position: relative;
+    height: 100%;
+    overflow: auto;
+    color: #e5e5e5;
+    min-height: 90vh;
+    min-width: max-content;
+  }
+  
+  .sidebar a {
+    display: block;
+    color: #e5e5e5;
+    font-size: 1.25rem;
+    font-weight: 500;
+    padding: 16px;
+    text-decoration: none;
+  }
+  .menu{
+    min-width: max-content;
+  }
+   
+  .active {
+    color: #252525 !important;
+    background-color: #F5C900;
+   
+  }
+  
+  .sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: #e5e5e5;
+  }
+.toggleBtn{
+    display: none;
+}
+
+  @media screen and (max-width: 768px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      text-align: center;
+      min-height: fit-content;
+    }
+    .menu{
+        display: none;
+        
+    }
+    .toggleBtn{
+       display: block;
+    }
+  }
+  

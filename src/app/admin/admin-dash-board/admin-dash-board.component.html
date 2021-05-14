@@ -1,0 +1,94 @@
+<div class="row p-5 m-0 align-middle">
+    <div class="col-md-6 col-sm-12 col-12 mb-4">
+        <div class="card movieContent" (click)="movie()">
+            <div class="card-body">
+                <div class="d-flex justify-content-between px-md-1">
+                    <div class="align-self-center ">
+                        <!-- Use Icon Here... -->
+                        <mat-icon class="icon ">movie_creation</mat-icon>
+                    </div>
+                    <div>
+                        <div class="text-end">
+                            <h1>Movies</h1>
+                            <p class="mb-0 h3">{{activeMovies+blockedMovies}}</p>
+                        </div>
+                        <div class="d-flex ">
+                            <div class="text-end">
+                                <h3>Active Movies</h3>
+                                <p class="mb-0">{{activeMovies}}</p>
+                            </div>
+                            <div class="text-end pl-3">
+                                <h3>Blocked Movies</h3>
+                                <p class="mb-0">{{blockedMovies}}</p>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-sm-12 col-12 mb-4 ">
+        <div class="card userContent" (click)="user()">
+            <div class="card-body">
+                <div class="d-flex justify-content-between px-md-1">
+                    <div class="align-self-center ">
+                        <!-- Use Icon Here... -->
+                    <mat-icon class="icon">supervisor_account</mat-icon>
+                    </div>
+                    <div >
+                        <div class="text-end">
+                            <h1>User</h1>
+                            <p class="mb-0 h3">{{blockedUser+activeUser}}</p>
+                        </div>
+                        <div class="d-flex">
+                            <div class="text-end">
+                                <h3>Active User</h3>
+                                <p class="mb-0">{{activeUser}}</p>
+                            </div>
+                            <div class="text-end pl-3">
+                                <h3>Blocked User</h3>
+                                <p class="mb-0">{{blockedUser}}</p>
+                            </div>
+                        </div>
+                        
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-sm-12 col-12 mb-4 ">
+        <div class="card genreContent " (click)="genre()">
+            <div class="card-body">
+                <div class="d-flex justify-content-between px-md-1 ">
+                    <div class="align-self-center ">
+                        <!-- Use Icon Here... -->
+                        <mat-icon class="icon">tag_faces</mat-icon>
+                    </div>
+                    <div class="text-end">
+                        <h1>Genre</h1>
+                        <p class="mb-0">{{genres}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-sm-12 col-12 mb-4 ">
+        <div class="card starContent" (click)="cast()">
+            <div class="card-body">
+                <div class="d-flex justify-content-between px-md-1">
+                    <div class="align-self-center ">
+                        <!-- Use Icon Here... -->
+                        <mat-icon class="icon">face</mat-icon>
+                    </div>
+                    <div class="text-end">
+                        <h1>StarsCast</h1>
+                        <p class="mb-0">{{starcast}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

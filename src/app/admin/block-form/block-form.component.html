@@ -1,0 +1,42 @@
+<div  mat-dialog-content>
+    <form [formGroup]="userForm">
+        <mat-form-field color="accent">
+            <mat-label>Email</mat-label>
+            <input type="text" matInput value="{{emailForBlocking}}" disabled>
+
+        </mat-form-field>
+        <br>
+        <mat-form-field class="example-full-width" color="accent">
+            <mat-label>Days</mat-label>
+            <input id="days" type="number" matInput formControlName="days" placeholder="Ex. 3" autocomplete="false" spellcheck="false">
+            <mat-error *ngIf="days.errors?.required">
+                Days is <strong>required</strong>
+            </mat-error>
+            <mat-error *ngIf="days.invalid && (days.dirty || days.touched) && !days.errors?.required">
+                Please enter a valid days
+            </mat-error>
+            
+        </mat-form-field>
+        <br>
+        <br>
+        <mat-form-field class="example-full-width" color="accent">
+            <mat-label>Comment</mat-label>
+            <input id="message" type="text" matInput formControlName="message" placeholder="Ex. Reason for Bolcking.." autocomplete="off" spellcheck="false">
+            <mat-error *ngIf="message.errors?.required">
+                Reason is <strong>required</strong>
+            </mat-error>
+            <mat-error *ngIf="message.invalid && (message.dirty || message.touched) && !message.errors?.required">
+                Please enter a valid Reason
+            </mat-error>
+            
+        </mat-form-field>
+
+    </form>
+    <br>
+    <hr>
+    
+</div>
+<div mat-dialog-actions>
+    <button mat-button (click)='cancel()'>Cancel</button>
+    <button class="btn saveBtn" mat-button [disabled]="userForm.invalid" (click)="confirm()">Block</button>
+</div>

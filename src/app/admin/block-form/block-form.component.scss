@@ -1,0 +1,24 @@
+.modal-body{
+    height: 50%;
+    width: 50%;
+}
+.cdk-overlay-pane{
+    height: 50%;
+    width: 50%;
+    max-width: 100vw;
+}
+
+.saveBtn {
+	color: #e5e5e5;
+	background-color: #252525;
+	&:disabled {
+		cursor: not-allowed;
+        color: #e5e5e5;
+	}
+	&:not([disabled]) {
+		&:hover {
+			color: #F5C900;
+			background-color: #252525;
+		}
+	}
+}

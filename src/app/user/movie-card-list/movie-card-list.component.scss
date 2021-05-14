@@ -1,0 +1,21 @@
+.carousel-control-prev,.carousel-control-next{
+    z-index: 3;
+    width: 4%;
+    background-color: transparent;
+}
+
+
+.carousel-inner{
+    overflow: visible;
+}
+p{
+    color: #f5c900;
+    font-size: xx-large;
+    padding: 10px 60px;
+}
+
+.view:hover{
+    cursor: pointer;
+    background-color: #f5c900;
+    color: #252525;
+}

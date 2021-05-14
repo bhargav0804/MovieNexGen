@@ -1,0 +1,63 @@
+<app-header></app-header>
+<div class="d-flex content">
+  <mat-card class="shadow-lg">
+    <div class="text-center">
+      <mat-card-title>LOGIN TO YOUR ACCOUNT</mat-card-title>
+    </div>
+    <mat-card-content>
+      <form class="example-form" [formGroup]="loginForm" autocomplete="off">
+        <mat-form-field color="accent" appearance="standard" class="w-100">
+          <mat-label>Email</mat-label>
+          <input
+            type="email"
+            spellcheck="false"
+            matInput
+            placeholder="User@cybage.com"
+            formControlName="email"
+          
+            required
+          />
+          <mat-error *ngIf="email.errors?.required">Email field is required</mat-error> 
+          <mat-error *ngIf="email.errors?.pattern">Enter a valid email Id</mat-error>
+         
+        </mat-form-field>
+
+        <mat-form-field color="accent" appearance="standard" class="w-100">
+          <mat-label>Password</mat-label>
+          <input
+            matInput
+            [type]="hide ? 'password' : 'text'"
+            formControlName="password"
+
+            required
+          />
+          <mat-icon matSuffix (click)="hide = !hide">{{
+            hide ? "visibility_off" : "visibility"
+          }}</mat-icon>
+         
+
+          <mat-error *ngIf="password.errors?.required">password field is <strong>required</strong></mat-error>
+          <mat-error *ngIf="password.errors?.minlength">Must have minimum 8 alphabets</mat-error>
+          <mat-error *ngIf="password.errors?.maxlength">Should not exceed 15 numbers</mat-error>
+          <mat-error *ngIf="password.errors?.pattern">Should have 1 Uppercase, 1 Lowercase, 1 Number and 1 Special Character</mat-error>
+        </mat-form-field>
+       
+        <div class="text-center">
+          <button
+            mat-flat-button
+            (click)="logIn()"
+            color="accent"
+            class="w-100"
+            [disabled]="loginForm.invalid"
+          >
+            Log In
+          </button>
+          <br /><br />
+          <a class="registerLink" (click)="gotoRegister()"
+            >Create New Account</a
+          >
+        </div>
+      </form>
+    </mat-card-content>
+  </mat-card>
+</div>

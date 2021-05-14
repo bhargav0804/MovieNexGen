@@ -1,0 +1,234 @@
+<div *ngIf="mainContentFlag; else searchContent">
+  <div [ngClass]="windowWidth > 992 ? 'wrapper' : 'wrapper-responsive'">
+    <img
+      [src]="movieDetails.ThumbnailUrl"
+      alt=""
+      onerror="this.src='../../../assets/background-final.jpg'"
+    />
+  </div>
+  <div
+    [ngClass]="
+      windowWidth > 992 ? 'customContainer' : 'customContainer-responsive'
+    "
+  >
+    <mat-card class="movie-card">
+      <mat-card-content>
+        <div class="content">
+          <div class="d-flex justify-content-start py-2">
+            <p class="movieTitle my-0">{{ movieDetails.MovieTitle }}</p>
+          </div>
+
+          <p class="movieDescription">
+            {{ movieDetails.Plot }}
+          </p>
+
+          <p>
+            <mat-chip-list aria-label="Fish selection">
+              <ng-container
+                *ngFor="let genre of movieDetails.Genres.slice(0, 2)"
+              >
+                <mat-chip>{{ genre.GenreName }}</mat-chip>
+              </ng-container>
+            </mat-chip-list>
+          </p>
+          <div class="d-flex justify-content-between align-items-center">
+            <p class="duration">{{ movieDetails.Duration }} mins</p>
+            <div class="d-flex align-items-center star-disp">
+              <p class="duration mr-0">
+                <ng-container *ngIf="movieDetails.Rating == null; else rating">
+                  0
+                </ng-container>
+                <ng-template #rating>
+                  {{ movieDetails.Rating }}
+                </ng-template>
+              </p>
+              <mat-icon class="text-white">star</mat-icon>
+            </div>
+          </div>
+
+          <div class="row m-0 justify-content-start">
+            <p>
+              <button
+                mat-flat-button
+                (click)="addToHistory($event)"
+                color="primary"
+              >
+                <mat-icon>play_arrow</mat-icon>Play
+              </button>
+            </p>
+            <p>
+              <button
+                mat-flat-button
+                *ngIf="!movieDetails.WatchLaterBool"
+                (click)="addToList($event)"
+              >
+                Add to List
+              </button>
+              <button
+                mat-flat-button
+                *ngIf="movieDetails.WatchLaterBool"
+                (click)="removeFromList($event)"
+              >
+                Remove
+              </button>
+            </p>
+            <p>
+              <button
+                mat-flat-button
+                data-toggle="modal"
+                data-target="#shareModal"
+              >
+                <mat-icon>share</mat-icon>Share
+              </button>
+            </p>
+
+           
+          </div>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </div>
+
+  <div
+    class="modal fade"
+    id="shareModal"
+    tabindex="-1"
+    aria-labelledby="shareModalLabel"
+    aria-hidden="true"
+  >
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title" id="shareModalLabel">Share a movie</h1>
+          <button
+            type="button"
+            class="close"
+            data-dismiss="modal"
+            aria-label="close"
+          ></button>
+          <span aria-hidden="true">&times;</span>
+        </div>
+
+        <div class="modal-body">
+          <form class="share-form">
+            <mat-form-field class="share-full-width" color="accent">
+              <mat-label>Email</mat-label>
+              <input
+                type="email"
+                matInput
+                [formControl]="emailFormControl"
+                placeholder="Ex. pat@example.com"
+                autocomplete="off"
+              />
+              <mat-error
+                *ngIf="
+                  emailFormControl.hasError('email') &&
+                  !emailFormControl.hasError('required')
+                "
+              >
+                Please enter a valid email address
+              </mat-error>
+              <mat-error *ngIf="emailFormControl.hasError('required')">
+                Email is <strong>required</strong>
+              </mat-error>
+            </mat-form-field>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button mat-flat-button data-dismiss="modal">Close</button>
+          <button mat-flat-button color="primary" (click)="shareBtnClk($event)">
+            Share
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <mat-tab-group
+      mat-align-tabs="center"
+      color="primary"
+      dynamicHeight
+      (selectedTabChange)="tabClick($event)"
+    >
+      <mat-tab label="Details">
+        <div class="container d-flex justify-content-center">
+          <table class="table table-dark my-5 w-100">
+            <tbody>
+              <tr>
+                <td scope="row">Title</td>
+                <td>{{ movieDetails.MovieTitle }}</td>
+              </tr>
+              <tr>
+                <td scope="row">Description</td>
+                <td>
+                  {{ movieDetails.Plot }}
+                </td>
+              </tr>
+              <tr>
+                <td scope="row">Duration</td>
+                <td>{{ movieDetails.Duration }} mins</td>
+              </tr>
+              <ng-container
+                *ngFor="let genre of movieDetails.Genres; let i = index"
+              >
+                <tr>
+                  <td
+                    *ngIf="i === 0"
+                    scope="row"
+                    [attr.rowspan]="movieDetails.Genres.length"
+                  >
+                    Genres
+                  </td>
+                  <td>{{ genre.GenreName }}</td>
+                </tr>
+              </ng-container>
+             
+              <tr>
+                <td>Ratings</td>
+                <td><ng-container *ngIf="movieDetails.Rating == null; else rating">
+                  0
+                </ng-container>
+                <ng-template #rating>
+                  {{ movieDetails.Rating }}
+                </ng-template>/5</td>
+              </tr>
+              <tr>
+                <td>Release Date</td>
+                <td>{{ movieDetails.ReleaseDate }}</td>
+              </tr>
+              <ng-container
+                *ngFor="let cast of movieDetails.StarCasts; let i = index"
+              >
+                <tr>
+                  <td
+                    *ngIf="i === 0"
+                    scope="row"
+                    [attr.rowspan]="movieDetails.StarCasts.length"
+                  >
+                    Casts
+                  </td>
+                  <td>{{ cast.StarCastName }}</td>
+                </tr>
+              </ng-container>
+            </tbody>
+          </table>
+        </div>
+      </mat-tab>
+      <mat-tab class="tab" label="Reviews">
+        <ng-container *ngIf="reviews == undefined; else reviewCardContent">
+          <mat-spinner color="primary"></mat-spinner>
+        </ng-container>
+        <ng-template #reviewCardContent>
+          <ng-container *ngFor="let item of reviews">
+            <app-review-card [review]="item"></app-review-card>
+          </ng-container>
+        </ng-template>
+      </mat-tab>
+    </mat-tab-group>
+  </div>
+</div>
+
+<ng-template #searchContent>
+  <app-search></app-search>
+</ng-template>

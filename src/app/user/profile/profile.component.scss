@@ -1,0 +1,101 @@
+.main-container{
+    background-color: #252525;
+}
+
+.profilePic{
+    //position: relative;
+   height: 100%;
+    width: 100%;
+}
+.img-container:hover{
+    cursor: pointer;
+    .edit-container{
+        transition: ease-in-out 0.4s;
+        opacity:1
+
+    }
+}
+.img-container{
+    position: relative;
+    width: 15vw;
+    min-width: 100px;
+    max-width: 300px;
+    min-height: 100px;
+    height: 15vw;
+    max-height: 300px;
+}
+.edit-container{
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: ease-in-out 0.4s;
+    background-color: rgba($color: #000000, $alpha: 0.5);
+    overflow: hidden;
+}
+
+
+
+.editBtn{
+    position: relative;
+}
+.editBtn button{
+    position: absolute;
+    top:50%;
+    right: 50%;
+    z-index: 3;
+    
+}
+::ng-deep .mat-tab-labels {
+    background-color: #252525;
+  }
+  ::ng-deep .mat-tab-body {
+    background-color: #252525;
+    color: #bebebe;
+  }
+  
+  ::ng-deep .mat-tab-label-content {
+    color: #bebebe;
+  }
+  
+
+.profile-card{
+    background-color: transparent;
+    color: #e5e5e5;
+    min-width: 20%;
+    width: 50vw;
+    max-width: 80%;
+}
+
+.username{
+    font-size: xx-large;
+    //white-space: nowrap;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    //text-overflow: ellipsis; 
+}
+
+.emailID{
+    font-size: large;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.phone{
+    font-size: large;
+}
+
+.share-full-width{
+    width: 100%;
+}
+
+body{
+    background-color: #252525;
+    min-height: 100vh;
+}

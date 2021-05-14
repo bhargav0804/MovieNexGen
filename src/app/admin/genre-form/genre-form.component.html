@@ -1,0 +1,25 @@
+<div mat-dialog >
+    <div  mat-dialog-content>
+        <form [formGroup]="genreForm" class="example-form">
+           
+            <mat-form-field class="example-full-width w-100" color="accent">
+                <mat-label>Genre Name</mat-label>
+            <input  type="text" id="genrename"  matInput formControlName="genrename" autocomplete="off" spellcheck="false">
+                <mat-error *ngIf="genrename.errors?.required">
+                    Genre name is <strong>required</strong>
+                </mat-error>
+                
+                
+            </mat-form-field>
+    
+        </form>
+        <br>
+        <hr>
+        
+    </div>
+    <div mat-dialog-actions class="d-flex justify-content-end">
+        <button mat-button (click)='cancel()'>Cancel</button>
+        <button class="btn saveBtn" mat-button [disabled]="genreForm.invalid " (click)="confirm()">{{action}}</button>
+    </div>
+</div>
+

@@ -1,0 +1,20 @@
+<h2>{{movieTitle}}</h2>
+<div>
+    <form class="share-form" [formGroup]="reviewForm">
+        
+
+        <ngx-input-star-rating formControlName="ratingFormControl"></ngx-input-star-rating>
+
+        <mat-form-field class="share-full-width" color="accent">
+          <mat-label>Review</mat-label>
+          <textarea matInput placeholder="Write review here" required [formControl]="reviewFormControl"></textarea>
+          <mat-error *ngIf="reviewFormControl.errors?.required"
+            >Mobile No. field is <strong>required</strong></mat-error
+          >
+        </mat-form-field>
+      </form>
+</div>
+<div mat-dialog-actions>
+    <button mat-button (click)='cancel()'>Cancel</button>
+    <button class="btn saveBtn" mat-button [disabled]="reviewForm.invalid"color="primary" (click)="confirm()">Add</button>
+</div>

@@ -1,0 +1,5 @@
+projectKey=movienexgen-g2
+serverUrl=http://172.27.12.78
+dashboardUrl=http://172.27.12.78/dashboard/index/movienexgen-g2
+ceTaskId=AXiMGSpCirXW5IlAPXFm
+ceTaskUrl=http://172.27.12.78/api/ce/task?id=AXiMGSpCirXW5IlAPXFm

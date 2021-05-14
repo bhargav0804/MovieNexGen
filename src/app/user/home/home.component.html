@@ -1,0 +1,24 @@
+<div style="background-color: #252525;">
+
+    <ng-container *ngIf='mainContentFlag else searchContent'>
+        <app-banner-carousal ></app-banner-carousal>
+        <ng-container *ngIf='MyListData.length != 0'>
+    
+            <app-movie-card-list [id]="MyList" [movieData]='MyListData'  ></app-movie-card-list>
+        </ng-container>
+        <ng-container *ngIf='RecommendedList.length != 0'>
+            <app-movie-card-list [id]="Recommended" [movieData]='RecommendedList'  ></app-movie-card-list>
+        </ng-container>
+        
+        <ng-container *ngFor='let movies of genresMovies'>  
+            <app-movie-card-list [id]="movies.name" [movieData]='movies.data'  ></app-movie-card-list>
+        </ng-container>
+    
+        <app-movie-card-list  [id]="AllMovies" [movieData]='AllMoviesData'></app-movie-card-list> 
+    </ng-container>
+
+    <ng-template #searchContent>
+        <app-search></app-search>
+    </ng-template>
+
+</div>

@@ -1,0 +1,193 @@
+<div
+  class="main-container container-fluid py-5"
+  *ngIf="mainContentFlag; else searchContent"
+>
+  <div class="row">
+    <div
+      [ngClass]="
+        windowWidth > 576
+          ? 'col-6   d-flex justify-content-end'
+          : 'col-12  d-flex justify-content-center'
+      "
+    >
+      <div class="rounded-circle img-container">
+        <img
+          [src]="userProfile.ProfilePhotoUrl"
+          onerror="this.src='../../../assets/background.jpg'"
+          class="profilePic rounded-circle"
+          alt=""
+        />
+        <div id="uploadProfile" class="edit-container align-items-end d-flex">
+          <input
+            type="file"
+            accept="image/*"
+            (change)="uploadProfilePic($event)"
+            
+            #file
+            accept="image/x-png,image/gif,image/jpeg"
+            hidden
+          />
+          <h1
+            class="w-100 py-2 mb-0 text-center bg-dark text-white"
+            (click)="file.click()"
+          >
+            Edit
+          </h1>
+        </div>
+      </div>
+    </div>
+    <div
+      [ngClass]="
+        windowWidth > 576
+          ? 'col-6   d-flex justify-content-start'
+          : 'col-12 d-flex justify-content-center'
+      "
+    >
+      <div>
+        <mat-card
+          class="profile-card"
+          [ngStyle]="{ width: windowWidth > 576 ? '40vw' : '80vw' }"
+        >
+          <mat-card-header> </mat-card-header>
+          <mat-card-content>
+            <h1 class="username">{{userProfile.Name}}</h1>
+            <p class="emailID">{{userProfile.Email}}</p>
+            <p class="phone">{{userProfile.PhoneNumber}}</p>
+            <p>
+              <button
+                mat-flat-button
+                color="primary"
+                data-toggle="modal"
+                data-target="#editProfileModal"
+              >
+                Edit
+              </button>
+            </p>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+
+  <div
+    class="modal fade"
+    id="editProfileModal"
+    tabindex="-1"
+    aria-labelledby="editProfileModalLabel"
+    aria-hidden="true"
+  >
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title" id="editProfileModalLabel">Edit profile</h1>
+          <button
+            type="button"
+            class="close"
+            data-dismiss="modal"
+            aria-label="close"
+          ></button>
+          <span aria-hidden="true">&times;</span>
+        </div>
+
+        <div class="modal-body">
+          <form class="share-form">
+            <mat-form-field class="share-full-width" color="accent">
+              <mat-label>Name</mat-label>
+              <input
+                type="text"
+                matInput
+                [formControl]="nameFormControl"
+                placeholder="Ex. Raj Patel"
+                autocomplete="off"
+              />
+              <mat-error *ngIf="nameFormControl.hasError('required')">
+                Name is <strong>required</strong>
+              </mat-error>
+              <mat-error *ngIf="nameFormControl.errors?.minlength"
+                >Must have minimum 3 alphabets</mat-error
+              >
+              <mat-error *ngIf="nameFormControl.errors?.pattern"
+                >Must contain only alphabets</mat-error
+              >
+            </mat-form-field>
+
+            <mat-form-field class="share-full-width" color="accent">
+              <mat-label>Mobile Number</mat-label>
+              <input
+                type="text"
+                matInput
+                [formControl]="mobileFormControl"
+                placeholder="Ex. 9090909090"
+                autocomplete="off"
+              />
+              <mat-error *ngIf="mobileFormControl.errors?.required"
+                >Mobile No. field is <strong>required</strong></mat-error
+              >
+              <mat-error *ngIf="mobileFormControl.errors?.maxlength"
+                >Should not exceed 10 numbers</mat-error
+              >
+              <mat-error *ngIf="mobileFormControl.errors?.pattern"
+                >Should start with number from 6 to 9 and have 10
+                numbers</mat-error
+              >
+            </mat-form-field>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button data-dismiss="modal" mat-flat-button color="primary" (click)="editProfileDetails()">Save Changes</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <mat-tab-group mat-align-tabs="center" color="primary">
+    <mat-tab label="Reviews">
+      <ng-container *ngIf="reviews.length == 0">
+        <div class="pt-5">
+          <h1 class="text-center">No reviews found..</h1>
+        </div>
+      </ng-container>
+      <ng-container *ngIf="reviews.length != 0">
+
+        <ng-container  *ngFor="let item of reviews">
+          <app-review-card [review]="item"></app-review-card>
+        </ng-container>
+      </ng-container>
+    </mat-tab>
+    <mat-tab label="Watch History">
+
+      <div class="container d-flex justify-content-center">
+        <ng-container *ngIf="movieData.length == 0">
+          <div class="pt-5">
+            <h1>No movies found..</h1>
+          </div>
+        </ng-container>
+        <table *ngIf="movieData.length != 0" class="table table-dark my-5 w-100">
+          <thead>
+            <tr>
+              <th>Thumbnail</th>
+              <th>Title</th>
+              <th>Duration</th>
+              <th colspan="2" class="text-center">Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let movie of movieData">
+              <td><img [src]="movie.ThumbnailUrl" alt="" height="150px" width="200px" /></td>
+              <td scope="row">{{ movie.MovieTitle }}</td>
+              <td scope="row">{{ movie.Duration }} mins</td>
+              <td scope="row">
+                <button mat-flat-button color="primary" (click)="addReview(movie.MovieId,movie.MovieTitle)">Add Review</button>
+              </td>
+              <td><button mat-flat-button color="primary" (click)="deleteHistory(movie.MovieId)">Delete</button></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </mat-tab>
+  </mat-tab-group>
+</div>
+
+<ng-template #searchContent>
+  <app-search></app-search>
+</ng-template>

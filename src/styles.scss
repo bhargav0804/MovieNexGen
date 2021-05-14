@@ -1,0 +1,191 @@
+
+// Custom Theming for Angular Material
+// For more information: https://material.angular.io/guide/theming
+@import '~@angular/material/theming';
+// Plus imports for other components in your app.
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat-core();
+
+// Define the palettes for your theme using the Material Design palettes available in palette.scss
+// (imported above). For each palette, you can optionally specify a default, lighter, and darker
+// hue. Available color palettes: https://material.io/design/color/
+$MovieNexGenClient-primary: mat-palette($mat-indigo);
+$MovieNexGenClient-accent: mat-palette($mat-pink, A200, A100, A400);
+
+// The warn palette is optional (defaults to red).
+$MovieNexGenClient-warn: mat-palette($mat-red);
+
+// Create the theme object. A theme consists of configurations for individual
+// theming systems such as "color" or "typography".
+$MovieNexGenClient-theme: mat-light-theme((
+  color: (
+    primary: $MovieNexGenClient-primary,
+    accent: $MovieNexGenClient-accent,
+    warn: $MovieNexGenClient-warn,
+  )
+));
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component
+// that you are using.
+@include angular-material-theme($MovieNexGenClient-theme);
+
+@import "~bootstrap/dist/css/bootstrap.css";
+// Custom Theming for Angular Material
+// For more information: https://material.angular.io/guide/theming
+@import '~@angular/material/theming';
+// Plus imports for other components in your app.
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat-core();
+
+// Define the palettes for your theme using the Material Design palettes available in palette.scss
+// (imported above). For each palette, you can optionally specify a default, lighter, and darker
+// hue. Available color palettes: https://material.io/design/color/
+$custom-primary: (
+  50: #FEF9E0,
+  100: #FCEFB3,
+  200: #FAE480,
+  300: #F8D94D,
+  400: #F7D126,
+  500: #F5C900,
+  600: #F4C300,
+  700: #F2BC00,
+  800: #F0B500,
+  900: #EEA900,
+  A100: #FFFFFF,
+  A200: #FFF5E1,
+  A400: #FFE5AE,
+  A700: #FFDC95,
+  contrast: (
+    50: #000000,
+    100: #000000,
+    200: #000000,
+    300: #000000,
+    400: #000000,
+    500: #000000,
+    600: #000000,
+    700: #000000,
+    800: #000000,
+    900: #000000,
+    A100: #000000,
+    A200: #000000,
+    A400: #000000,
+    A700: #000000,
+  ),
+);
+/* For use in src/lib/core/theming/_palette.scss */
+$custom-accent: (
+  50: #E5E5E5,
+  100: #BEBEBE,
+  200: #929292,
+  300: #666666,
+  400: #464646,
+  500: #252525,
+  600: #212121,
+  700: #1B1B1B,
+  800: #161616,
+  900: #0D0D0D,
+  A100: #EB6969,
+  A200: #E53C3C,
+  A400: #EE0000,
+  A700: #D40000,
+  contrast: (
+    50: #000000,
+    100: #000000,
+    200: #000000,
+    300: #FFFFFF,
+    400: #FFFFFF,
+    500: #FFFFFF,
+    600: #FFFFFF,
+    700: #FFFFFF,
+    800: #FFFFFF,
+    900: #FFFFFF,
+    A100: #000000,
+    A200: #FFFFFF,
+    A400: #FFFFFF,
+    A700: #FFFFFF,
+  ),
+);
+/* For use in src/lib/core/theming/_palette.scss */
+$custom-warn: (
+  50: #FFE0E0,
+  100: #FFB3B3,
+  200: #FF8080,
+  300: #FF4D4D,
+  400: #FF2626,
+  500: #FF0000,
+  600: #FF0000,
+  700: #FF0000,
+  800: #FF0000,
+  900: #FF0000,
+  A100: #FFFFFF,
+  A200: #FFF2F2,
+  A400: #FFBFBF,
+  A700: #FFA6A6,
+  contrast: (
+    50: #000000,
+    100: #000000,
+    200: #000000,
+    300: #000000,
+    400: #FFFFFF,
+    500: #FFFFFF,
+    600: #FFFFFF,
+    700: #FFFFFF,
+    800: #FFFFFF,
+    900: #FFFFFF,
+    A100: #000000,
+    A200: #000000,
+    A400: #000000,
+    A700: #000000,
+  ),
+);
+
+//$MovieNexGenV1-primary: mat-palette($mat-indigo);
+//$MovieNexGenV1-accent: mat-palette($mat-pink, A200, A100, A400);
+$MovieNexGenV1-primary: mat-palette($custom-primary);
+$MovieNexGenV1-accent: mat-palette($custom-accent);
+
+// The warn palette is optional (defaults to red).
+//$MovieNexGenV1-warn: mat-palette($mat-red);
+$MovieNexGenV1-warn: mat-palette($custom-warn);
+
+// Create the theme object. A theme consists of configurations for individual
+// theming systems such as "color" or "typography".
+$MovieNexGenV1-theme: mat-light-theme((
+  color: (
+    primary: $MovieNexGenV1-primary,
+    accent: $MovieNexGenV1-accent,
+    warn: $MovieNexGenV1-warn,
+  )
+));
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component
+// that you are using.
+@include angular-material-theme($MovieNexGenV1-theme);
+
+/* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+}
+html, body { min-height: 100vh; scroll-behavior: smooth; background-color: #252525; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-color: #252525;
+ }
+.color-primary{
+  color: #F5C900;
+  
+}
+
+
+
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

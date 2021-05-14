@@ -1,0 +1,124 @@
+<div class="container d-flex justify-content-center">
+  <form class="addMovieform" autocomplete="off" [formGroup]="addMovieForm">
+      <h1 class="text-center">{{action}}</h1>
+        <mat-form-field class="full-width" color='accent'>
+          <mat-label>Title</mat-label>
+          <input matInput placeholder="Enter title" spellcheck="false" formControlName="title"  required>
+          <mat-error *ngIf="title.errors?.required">Movie title field is <strong>required</strong></mat-error>
+        </mat-form-field>
+
+        <mat-form-field appearance="standard" class="full-width" color='accent'>
+            <mat-label>Choose a date</mat-label>
+            <input matInput [matDatepicker]="datepicker"  formControlName="releaseDate"  [max]="today" required>
+            <mat-error *ngIf="releaseDate.errors?.required">
+                Release date is <strong>required</strong>
+              </mat-error>
+            <mat-datepicker-toggle matSuffix [for]="datepicker" ></mat-datepicker-toggle>
+            <mat-datepicker #datepicker>
+              <mat-datepicker-actions>
+                <button mat-button matDatepickerCancel>Cancel</button>
+                <button mat-raised-button color="primary" matDatepickerApply>Apply</button>
+              </mat-datepicker-actions>
+            </mat-datepicker>
+          </mat-form-field>
+
+          <mat-form-field class="full-width" color='accent'>
+            <mat-label>Duration</mat-label>
+            <input matInput placeholder="Enter title" formControlName="duration" required>
+            <mat-error *ngIf="duration.errors?.required">Duration field is <strong>required</strong></mat-error>
+            <mat-error *ngIf="duration.errors?.min">Minimum duration should be 5</mat-error>
+            <mat-error *ngIf="duration.errors?.max">Maximum duration should be 500</mat-error>
+            <mat-error *ngIf="duration.errors?.pattern">Duration can only have numbers</mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="full-width" color='accent'>
+            <mat-label>Movie plot</mat-label>
+            <textarea matInput placeholder="Enter summary of movie" required formControlName="plot"></textarea>
+            <mat-error *ngIf="plot.errors?.required">Plot field is <strong>required</strong></mat-error>
+            <mat-error *ngIf="plot.errors?.minlength">Minimum length should be 20</mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="full-width">
+            <mat-label>Genres</mat-label>
+            <mat-chip-list #genreList aria-label="Genre selection">
+              <mat-chip
+                *ngFor="let genre of genres"
+                [selectable]="selectable"
+                [removable]="removable"
+                (removed)="removeGenre(genre)">
+                {{genre}}
+                <mat-icon matChipRemove *ngIf="removable">cancel</mat-icon>
+              </mat-chip>
+              <input
+              mat-input
+                placeholder="Add genre..."
+                #genreInput
+                [formControl]="genreCtrl"
+                [matAutocomplete]="autoGenre"
+                [matChipInputFor]="genreList"
+                [matChipInputSeparatorKeyCodes]="separatorKeysCodes"
+                
+                >
+            <mat-error *ngIf="genres.length == 0 && genreCtrl.touched">Genre field is <strong>required</strong></mat-error>
+
+            </mat-chip-list>
+            <mat-autocomplete #autoGenre="matAutocomplete" (optionSelected)="selectedGenres($event)">
+              <mat-option *ngFor="let genre of filteredGenres | async" [value]="genre">
+                {{genre}}
+              </mat-option>
+            </mat-autocomplete>
+          </mat-form-field>
+
+
+          <mat-form-field class="full-width">
+            <mat-label>Star Cast</mat-label>
+            <mat-chip-list #starcastList aria-label="StarCast selection">
+              <mat-chip
+                *ngFor="let starcast of starcasts"
+                [selectable]="selectable"
+                [removable]="removable"
+                (removed)="removeStarcast(starcast)">
+                {{starcast}}
+                <mat-icon matChipRemove *ngIf="removable">cancel</mat-icon>
+              </mat-chip>
+              <input
+              mat-input
+                placeholder="Add star cast..."
+                #starcastInput
+                [formControl]="starcastCtrl"
+                [matAutocomplete]="autoStarcast"
+                [matChipInputFor]="starcastList"
+                [matChipInputSeparatorKeyCodes]="separatorKeysCodes"
+                
+                >
+            <mat-error *ngIf="starcasts.length == 0 && starcastCtrl.touched">Starcast field is <strong>required</strong></mat-error>
+
+            </mat-chip-list>
+            <mat-autocomplete #autoStarcast="matAutocomplete" (optionSelected)="selectedStarcast($event)">
+              <mat-option *ngFor="let starcast of filteredStarcast | async" [value]="starcast">
+                {{starcast}}
+              </mat-option>
+            </mat-autocomplete>
+          </mat-form-field>
+         
+              <mat-label>Thumbnail</mat-label>
+              <input type="file" formControlName="thumbnail" (change)='changeThumbnail($event)'>
+              
+            <mat-error *ngIf="thumbnail.errors?.required">Thumbnail field is <strong>required</strong></mat-error>
+            <br><br>
+
+            <img
+          [src]="srcProfile"
+          onerror="this.src='../../../assets/background.jpg'"
+          class="profilePic "
+          alt=""
+        />
+      
+          
+          <br>
+          <br>
+          <button mat-flat-button color="accent"  class="mr-3" (click)="cancel()">Cancel</button>
+
+          <button mat-flat-button color="primary"  [disabled]="addMovieForm.invalid || (genres.length==0 ||starcasts.length==0) || (adminFormData['Thumbnail']==null && action=='Add Movie')" (click)="addMovie($event)">{{action}}</button>
+      </form>
+</div>

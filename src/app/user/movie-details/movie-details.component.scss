@@ -1,0 +1,161 @@
+.wrapper {
+  position: relative;
+  height: 70vh;
+  width: 100%;
+  min-height: 300px;
+  background-color: #252525;
+  img {
+    height: 100%;
+    width: 70%;
+    object-fit: cover;
+    object-position: 10%;
+  }
+}
+
+.wrapper::after {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 20%;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0) 0,
+    rgb(37, 37, 37) 100%
+  );
+  //margin-top: -70vh;
+  //margin-left: 20vw;
+  height: 100%;
+  width: 50%;
+  content: "";
+}
+.wrapper-responsive {
+    position: relative;
+    height: 70vh;
+    width: 100%;
+    min-height: 300px;
+    background-color: #252525;
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      object-position: 10%;
+    }
+  }
+  
+  .wrapper-responsive::after {
+    display: block;
+    position: absolute;
+    top: 0;
+    background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0) 0,
+      rgb(37, 37, 37) 100%
+    );
+    //margin-top: -70vh;
+    //margin-left: 20vw;
+    height: 100%;
+    width: 100%;
+    content: "";
+  }
+  
+
+.customContainer {
+  position: absolute;
+  top: 20%;
+  right: 10%;
+  z-index: 20;
+  max-width: 35vw;
+
+}
+.customContainer-responsive {
+  background-color: #252525;
+  z-index: 20;
+}
+.movie-card {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
+.profileImage{
+    border-radius: 50%;
+}
+.content p {
+  color: #e5e5e5;
+  margin: 10px 20px;
+}
+
+.movieTitle {
+  font-size: xx-large;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  
+}
+
+.movieDescription {
+  font-size: x-large;
+  line-height: 1.2em;
+  text-align: justify;
+}
+
+.duration {
+  font-size: medium;
+}
+
+.genre {
+  font-size: large;
+}
+mat-chip {
+  font-size: larger;
+}
+
+button {
+  font-size: larger;
+}
+
+::ng-deep .mat-tab-labels {
+  background-color: #252525;
+}
+::ng-deep .mat-tab-body {
+  background-color: #252525;
+  color: #bebebe;
+}
+
+::ng-deep .mat-tab-label-content {
+  color: #bebebe;
+}
+
+td {
+  font-size: medium;
+}
+.review-card {
+  background-color: #343a40;
+  color: #fff;
+}
+
+
+.star-disp {
+  margin-right: 20px;
+}
+
+.movieDescription{
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.tabs{
+  min-height: 60vh;
+}
+
+.share-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.share-full-width {
+  width: 100%;
+}

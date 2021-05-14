@@ -1,0 +1,33 @@
+ 
+<mat-card class="custom-card"  routerLink='/user/movie-details/{{movieDetails.MovieId}}'>
+  <!-- <img mat-card-image src="../../../assets/background-final.jpg" alt="Photo of a Shiba Inu"> -->
+  <!-- <img
+    [src]="movieDetails.ThumbnailUrl"
+    alt="Snow"
+    class="movie-thumbnail"
+    
+  /> -->
+  <img
+    [src]="movieDetails.ThumbnailUrl"
+    onerror="this.src='../../../assets/background-final.jpg'"
+    alt="Snow"
+    class="movie-thumbnail"
+    
+  />
+  <mat-card-content>
+    <div class="content">
+      <p class="text-capitalize title h2">
+       {{movieDetails.MovieTitle}}
+    
+      </p>
+      <p class="description">
+      
+        {{movieDetails.Plot}}
+      </p>
+      <p class="duration">140 mins</p>
+      <button mat-flat-button *ngIf='!movieDetails.WatchLaterBool' color="primary" class=" addbtn" (click)="addToList($event)">Add to List</button>
+      <button mat-flat-button *ngIf='movieDetails.WatchLaterBool' color="primary" class=" addbtn" (click)="removeFromList($event)">Remove</button>
+    </div>
+  </mat-card-content>
+
+</mat-card>

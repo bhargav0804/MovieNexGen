@@ -1,0 +1,104 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="#">MovieNex</a>
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div
+      [ngClass]="windowWidth > 992 ? 'd-flex justify-content-end w-100' : 'text-center'"
+    >
+       
+        <mat-form-field
+          color="accent"
+          id="searchbar"
+          appearance="standard"
+          class="pl-1 pr-0"
+          *ngIf="movieDetailsFlag=='no'"
+          [ngStyle]="{width:windowWidth > 992 ? '400px' : 'initial'}"
+        >
+          <mat-label>Search</mat-label>
+          <input
+            type="text"
+            spellcheck="false"
+            matInput
+            placeholder="Search text"
+            autocomplete="off"
+            [(ngModel)]="searchContent"
+            (ngModelChange)="Search($event)"
+            name="search"
+          />
+        </mat-form-field>
+      <ul class="navbar-nav d-flex justify-content-center align-items-center">
+        <li class="nav-item ">
+          <mat-icon
+            matBadge="{{ notifications.length }}"
+            [matMenuTriggerFor]="notificationMenu"
+            matBadgeColor="warn"
+            >notifications</mat-icon
+          >
+
+          <mat-menu #notificationMenu="matMenu" xPosition="before">
+            <div>
+              <mat-list>
+                <mat-card *ngIf="notifications.length == 0" class="example-card d-flex">
+                  <mat-card-content class="mb-0">
+                    <p class="notificationText px-2">
+                    
+                      No notifications found..
+                    </p>
+                  </mat-card-content>
+                </mat-card>
+                <ng-container *ngIf="notifications.length != 0">
+
+                  <mat-card
+                    class="example-card d-flex"
+                    *ngFor="let item of notifications"
+                  >
+                    <mat-card-content class="mb-0">
+                      <p class="notificationText px-2">
+                        {{ item.SenderName }} has recommended you to watch
+                        this:<span class="text-primary font-weight-bold">
+                          {{ item.MovieName }}</span
+                        >
+                      </p>
+                    </mat-card-content>
+                    <mat-card-actions>
+                      <mat-icon class="clear" (click)="deleteNotification(item)"
+                        >clear</mat-icon
+                      >
+                    </mat-card-actions>
+                  </mat-card>
+                  <mat-divider></mat-divider>
+                </ng-container>
+              </mat-list>
+            </div>
+          </mat-menu>
+        </li>
+        <li class="nav-item">
+          <img
+            [src]="userProfile?.ProfilePhotoUrl"
+            onerror="this.src='../../../assets/profile_sample.jfif'"
+            width="30px"
+            height="30px"
+            class="ml-3 profilePhoto"
+            alt=""
+          />
+          <mat-icon [matMenuTriggerFor]="profileMenu">arrow_drop_down</mat-icon>
+          <mat-menu #profileMenu="matMenu" xPosition="before">
+            <button mat-menu-item (click)="GotoProfile()">View Profile</button>
+            <button mat-menu-item (click)="logout()">Logout</button>
+          </mat-menu>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
