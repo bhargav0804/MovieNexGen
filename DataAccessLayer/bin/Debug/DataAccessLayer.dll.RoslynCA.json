@@ -1,0 +1,928 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-GB"
+      },
+      "results": [
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AccountOps.cs",
+                "region": {
+                  "startLine": 133,
+                  "startColumn": 17,
+                  "endLine": 133,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 25,
+                  "endLine": 170,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 209,
+                  "startColumn": 16,
+                  "endLine": 209,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 236,
+                  "startColumn": 17,
+                  "endLine": 236,
+                  "endColumn": 107
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 242,
+                  "startColumn": 21,
+                  "endLine": 242,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 13,
+                  "endLine": 429,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AccountOps.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 70,
+                  "endLine": 60,
+                  "endColumn": 77
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2971",
+          "level": "warning",
+          "message": "Drop \"ToList\" from the middle of the call chain.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AccountOps.cs",
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 32,
+                  "endLine": 132,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to \"float?\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to \"float?\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 41,
+                  "endLine": 39,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to \"float?\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/MovieOps.cs",
+                "region": {
+                  "startLine": 96,
+                  "startColumn": 41,
+                  "endLine": 96,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 56,
+                  "endLine": 75,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 52,
+                  "endLine": 103,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to \"float?\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 41,
+                  "endLine": 106,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to \"float?\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/MovieOps.cs",
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 41,
+                  "endLine": 148,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to \"float?\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/MovieOps.cs",
+                "region": {
+                  "startLine": 206,
+                  "startColumn": 41,
+                  "endLine": 206,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/MovieOps.cs",
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 86,
+                  "endLine": 192,
+                  "endColumn": 93
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/MovieOps.cs",
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 118,
+                  "endLine": 192,
+                  "endColumn": 125
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 280,
+                  "startColumn": 56,
+                  "endLine": 280,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 318,
+                  "startColumn": 68,
+                  "endLine": 318,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 261,
+                  "startColumn": 74,
+                  "endLine": 261,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 261,
+                  "startColumn": 108,
+                  "endLine": 261,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to \"float?\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 196,
+                  "startColumn": 41,
+                  "endLine": 196,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 298,
+                  "startColumn": 85,
+                  "endLine": 298,
+                  "endColumn": 92
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 298,
+                  "startColumn": 125,
+                  "endLine": 298,
+                  "endColumn": 132
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2971",
+          "level": "warning",
+          "message": "Drop \"ToList\" from the middle of the call chain.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 417,
+                  "startColumn": 33,
+                  "endLine": 417,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 298,
+                  "startColumn": 81,
+                  "endLine": 298,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 298,
+                  "startColumn": 100,
+                  "endLine": 298,
+                  "endColumn": 107
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 299,
+                  "startColumn": 86,
+                  "endLine": 299,
+                  "endColumn": 93
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 299,
+                  "startColumn": 109,
+                  "endLine": 299,
+                  "endColumn": 116
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable \"NewMovieList\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 461,
+                  "startColumn": 43,
+                  "endLine": 461,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to \"float?\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 494,
+                  "startColumn": 41,
+                  "endLine": 494,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 466,
+                  "startColumn": 78,
+                  "endLine": 466,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 466,
+                  "startColumn": 97,
+                  "endLine": 466,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 474,
+                  "startColumn": 85,
+                  "endLine": 474,
+                  "endColumn": 92
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1449",
+          "level": "warning",
+          "message": "Define the locale to be used in this string operation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 474,
+                  "startColumn": 103,
+                  "endLine": 474,
+                  "endColumn": 110
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make \"db\" \"readonly\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AdminOps.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 17,
+                  "endLine": 17,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make \"db\" \"readonly\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/MovieOps.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 17,
+                  "endLine": 17,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make \"db\" \"readonly\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/UserOps.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 17,
+                  "endLine": 16,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make \"db\" \"readonly\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/DataAccessLayer/AccountOps.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 17,
+                  "endLine": 17,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be \"commented out\"",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability. Unused code should be deleted and can be retrieved from source control history if required.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S125",
+          "properties": {
+            "category": "Maintainability",
+            "isEnabledByDefault": true
+          }
+        },
+        "S1449": {
+          "id": "S1449",
+          "shortDescription": "Culture should be specified for \"string\" operations",
+          "fullDescription": "\"string.ToLower()\", \"ToUpper\", \"IndexOf\", \"LastIndexOf\", and \"Compare\" are all culture-dependent, as are some (floating point number and \"DateTime\"-related) calls to \"ToString\". Fortunately, all have variants which accept an argument specifying the culture or formatter to use. Leave that argument off and the call will use the system default culture, possibly creating problems with international characters. \"string.CompareTo()\" is also culture specific, but has no overload that takes a culture information, so instead it's better to use \"CompareOrdinal\", or \"Compare\" with culture. Calls without a culture may work fine in the system's \"home\" environment, but break in ways that are extremely difficult to diagnose for customers who use different encodings. Such bugs can be nearly, if not completely, impossible to reproduce when it's time to fix them.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S1449",
+          "properties": {
+            "category": "Reliability",
+            "isEnabledByDefault": true
+          }
+        },
+        "S1854": {
+          "id": "S1854",
+          "shortDescription": "Dead stores should be removed",
+          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code.Even if it's not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S1854",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true
+          }
+        },
+        "S1905": {
+          "id": "S1905",
+          "shortDescription": "Redundant casts should not be used",
+          "fullDescription": "Unnecessary casting expressions make the code harder to read and understand.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S1905",
+          "properties": {
+            "category": "Maintainability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Unnecessary"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "\"readonly\" fields can only be assigned in a class constructor. If a class has a field that's not marked \"readonly\" but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked \"readonly\" to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S2933",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true
+          }
+        },
+        "S2971": {
+          "id": "S2971",
+          "shortDescription": "\"IEnumerable\" LINQs should be simplified",
+          "fullDescription": "In the interests of readability, code that can be simplified should be simplified. To that end, there are several ways \"IEnumerable LINQ\"s can be simplified. Use \"OfType\" instead of using \"Select\" with \"as\" to type cast elements and then null-checking in a query expression to choose elements based on type. Use \"OfType\" instead of using \"Where\" and the \"is\" operator, followed by a cast in a \"Select\". Use an expression in \"Any\" instead of \"Where(element => [expression]).Any()\". Use \"Count\" instead of \"Count()\" when it's available. Don't call \"ToArray()\" or \"ToList()\" in the middle of a query chain.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S2971",
+          "properties": {
+            "category": "Maintainability",
+            "isEnabledByDefault": true
+          }
+        }
+      }
+    }
+  ]
+}

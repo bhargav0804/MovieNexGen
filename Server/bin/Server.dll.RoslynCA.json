@@ -1,0 +1,321 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-GB"
+      },
+      "results": [
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "The variable 'e' is declared but never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/Areas/User/Controllers/UserController.cs",
+                "region": {
+                  "startLine": 254,
+                  "startColumn": 29,
+                  "endLine": 254,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a \"protected\" constructor or the \"static\" keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/App_Start/BundleConfig.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 18,
+                  "endLine": 6,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/App_Start/Startup.Auth.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 13,
+                  "endLine": 52,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a \"protected\" constructor or the \"static\" keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/App_Start/FilterConfig.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 18,
+                  "endLine": 6,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a \"protected\" constructor or the \"static\" keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/App_Start/RouteConfig.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove this unused private member.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9,
+                  "endLine": 12,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/Areas/User/Controllers/UserController.cs",
+                "region": {
+                  "startLine": 188,
+                  "startColumn": 9,
+                  "endLine": 188,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3215",
+          "level": "warning",
+          "message": "Remove this cast and edit the interface to add the missing functionality.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/Areas/Movie/Controllers/MovieController.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 36,
+                  "endLine": 27,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make \"db\" \"readonly\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 17,
+                  "endLine": 12,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make \"db\" \"readonly\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server/Controllers/UsersInfoesController.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 25,
+                  "endLine": 16,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "AD0001",
+          "level": "warning",
+          "message": "Analyzer 'SonarLint.Rules.CSharp.UseValueParameter' threw an exception of type 'System.NullReferenceException' with message 'Object reference not set to an instance of an object.'.",
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "AD0001": {
+          "id": "AD0001",
+          "shortDescription": "Analyzer Failure",
+          "fullDescription": "Analyzer 'SonarLint.Rules.CSharp.UseValueParameter' threw the following exception:\u000d\u000a'Exception occurred with following context:\u000d\u000aCompilation: Server\u000d\u000aISymbol: set_ApplicationName (Method)\u000d\u000aSyntaxTree: D:\\MajorProject\\Server\\Server\\Server\\ServerRoleProvider.cs\u000d\u000aSyntaxNode: set => throw new NotImplementedException ... [AccessorDeclarationSyntax]@[351..394) (12,93)-(12,136)\u000d\u000a\u000d\u000aSystem.NullReferenceException: Object reference not set to an instance of an object.\u000d\u000a   at SonarLint.Rules.CSharp.UseValueParameter.<>c.<Initialize>b__10_0(CodeBlockStartAnalysisContext`1 cbc)\u000d\u000a   at SonarLint.Helpers.DiagnosticAnalyzerContextHelper.<>c__DisplayClass5_0`1.<RegisterCodeBlockStartActionInNonGenerated>b__0(CodeBlockStartAnalysisContext`1 c)\u000d\u000a   at Microsoft.CodeAnalysis.Diagnostics.AnalyzerExecutor.<>c__48`6.<ExecuteBlockActionsCore>b__48_1(ValueTuple`5 data)\u000d\u000a   at Microsoft.CodeAnalysis.Diagnostics.AnalyzerExecutor.ExecuteAndCatchIfThrows_NoLock[TArg](DiagnosticAnalyzer analyzer, Action`1 analyze, TArg argument, Nullable`1 info)\u000d\u000a-----\u000d\u000a'.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "AnalyzerException"
+            ]
+          }
+        },
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "Variable is declared but never used",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Utility classes, which are collections of \"static\" members, are not meant to be instantiated. Even \"abstract\" utility classes, which can be extended, should not have \"public\" constructors. C# adds an implicit public constructor to every class which does not explicitly define at least one constructor. Hence, at least one \"protected\" constructor should be defined if you wish to subclass this utility class. Or the \"static\" keyword should be added to the class declaration to prevent subclassing.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S1118",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true
+          }
+        },
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "Private types or members that are never executed or referenced are dead code: unnecessary, inoperative code that should be removed. Cleaning out dead code decreases the size of the maintained codebase, making it easier to understand the program and preventing bugs from being introduced.",
+          "defaultLevel": "note",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S1144",
+          "properties": {
+            "category": "Maintainability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Unnecessary"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be \"commented out\"",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability. Unused code should be deleted and can be retrieved from source control history if required.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S125",
+          "properties": {
+            "category": "Maintainability",
+            "isEnabledByDefault": true
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "\"readonly\" fields can only be assigned in a class constructor. If a class has a field that's not marked \"readonly\" but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked \"readonly\" to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S2933",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true
+          }
+        },
+        "S3215": {
+          "id": "S3215",
+          "shortDescription": "\"interface\" instances should not be cast to concrete types",
+          "fullDescription": "Needing to cast from an interface to a concrete type indicates that something is wrong with the abstractions in use, likely that something is missing from the interface. Instead of casting to a discrete type, the missing functionality should be added to the interface. Otherwise there is the risk of runtime exceptions.",
+          "defaultLevel": "warning",
+          "helpUri": "http://vs.sonarlint.org/rules/index.html#version=1.10.0&ruleId=S3215",
+          "properties": {
+            "category": "Reliability",
+            "isEnabledByDefault": false
+          }
+        }
+      }
+    }
+  ]
+}

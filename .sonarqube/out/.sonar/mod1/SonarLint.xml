@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalysisInput>
+  <Settings>
+    <Setting>
+      <Key>sonar.cs.ignoreHeaderComments</Key>
+      <Value>true</Value>
+    </Setting>
+  </Settings>
+  <Rules>
+  </Rules>
+  <Files>
+    <File>D:\MajorProject\Server\Server\Database.Repository\Context.cs</File>
+    <File>D:\MajorProject\Server\Server\Database.Repository\Properties\AssemblyInfo.cs</File>
+  </Files>
+</AnalysisInput>

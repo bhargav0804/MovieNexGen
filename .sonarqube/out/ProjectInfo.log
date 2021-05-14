@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+D:\MajorProject\Server\Server\Database.Model\Database.Model.csproj
+D:\MajorProject\Server\Server\Database.Repository\Database.Repository.csproj
+D:\MajorProject\Server\Server\ViewModel\ViewModel.csproj
+D:\MajorProject\Server\Server\DataAccessLayer\DataAccessLayer.csproj
+D:\MajorProject\Server\Server\Server\Server.csproj
+
+
+Test projects
+---------------------------------------
+D:\MajorProject\Server\Server\Server.Tests\Server.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

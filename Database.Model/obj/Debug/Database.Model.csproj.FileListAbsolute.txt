@@ -1,0 +1,71 @@
+D:\MovieNexGen\Server\Database.Model\obj\Debug\Database.Model.csprojAssemblyReference.cache
+D:\MovieNexGen\Server\Database.Model\obj\Debug\Database.Model.csproj.CoreCompileInputs.cache
+D:\MovieNexGen\Server\Database.Model\bin\Debug\Database.Model.dll.config
+D:\MovieNexGen\Server\Database.Model\bin\Debug\Database.Model.dll
+D:\MovieNexGen\Server\Database.Model\bin\Debug\Database.Model.pdb
+D:\MovieNexGen\Server\Database.Model\bin\Debug\EntityFramework.dll
+D:\MovieNexGen\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\MovieNexGen\Server\Database.Model\bin\Debug\EntityFramework.xml
+D:\MovieNexGen\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\MovieNexGen\Server\Database.Model\obj\Debug\Database.Model.csproj.CopyComplete
+D:\MovieNexGen\Server\Database.Model\obj\Debug\Database.Model.dll
+D:\MovieNexGen\Server\Database.Model\obj\Debug\Database.Model.pdb
+D:\MovieNexGen\Server\Server\Database.Model\bin\Debug\Database.Model.dll.config
+D:\MovieNexGen\Server\Server\Database.Model\bin\Debug\Database.Model.dll
+D:\MovieNexGen\Server\Server\Database.Model\bin\Debug\Database.Model.pdb
+D:\MovieNexGen\Server\Server\Database.Model\bin\Debug\EntityFramework.dll
+D:\MovieNexGen\Server\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\MovieNexGen\Server\Server\Database.Model\bin\Debug\EntityFramework.xml
+D:\MovieNexGen\Server\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\MovieNexGen\Server\Server\Database.Model\obj\Debug\Database.Model.csproj.CoreCompileInputs.cache
+D:\MovieNexGen\Server\Server\Database.Model\obj\Debug\Database.Model.csproj.CopyComplete
+D:\MovieNexGen\Server\Server\Database.Model\obj\Debug\Database.Model.dll
+D:\MovieNexGen\Server\Server\Database.Model\obj\Debug\Database.Model.pdb
+D:\MovieNexGen\Server\Server\Database.Model\obj\Debug\Database.Model.csprojAssemblyReference.cache
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\bin\Debug\Database.Model.dll.config
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\bin\Debug\Database.Model.dll
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\bin\Debug\Database.Model.pdb
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\bin\Debug\EntityFramework.dll
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\bin\Debug\EntityFramework.xml
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\obj\Debug\Database.Model.csproj.CoreCompileInputs.cache
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\obj\Debug\Database.Model.csproj.CopyComplete
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\obj\Debug\Database.Model.dll
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\obj\Debug\Database.Model.pdb
+C:\Users\swapnilmo\Downloads\Server\Server\Database.Model\obj\Debug\Database.Model.csprojAssemblyReference.cache
+D:\Server\Server\Database.Model\bin\Debug\Database.Model.dll.config
+D:\Server\Server\Database.Model\bin\Debug\Database.Model.dll
+D:\Server\Server\Database.Model\bin\Debug\Database.Model.pdb
+D:\Server\Server\Database.Model\bin\Debug\EntityFramework.dll
+D:\Server\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Server\Server\Database.Model\bin\Debug\EntityFramework.xml
+D:\Server\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Server\Server\Database.Model\obj\Debug\Database.Model.csproj.CoreCompileInputs.cache
+D:\Server\Server\Database.Model\obj\Debug\Database.Model.csproj.CopyComplete
+D:\Server\Server\Database.Model\obj\Debug\Database.Model.dll
+D:\Server\Server\Database.Model\obj\Debug\Database.Model.pdb
+D:\MajorProject\Server\Server\Database.Model\bin\Debug\Database.Model.dll.config
+D:\MajorProject\Server\Server\Database.Model\bin\Debug\Database.Model.dll
+D:\MajorProject\Server\Server\Database.Model\bin\Debug\Database.Model.pdb
+D:\MajorProject\Server\Server\Database.Model\bin\Debug\EntityFramework.dll
+D:\MajorProject\Server\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\MajorProject\Server\Server\Database.Model\bin\Debug\EntityFramework.xml
+D:\MajorProject\Server\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\MajorProject\Server\Server\Database.Model\obj\Debug\Database.Model.csproj.CoreCompileInputs.cache
+D:\MajorProject\Server\Server\Database.Model\obj\Debug\Database.Model.csproj.CopyComplete
+D:\MajorProject\Server\Server\Database.Model\obj\Debug\Database.Model.dll
+D:\MajorProject\Server\Server\Database.Model\obj\Debug\Database.Model.pdb
+D:\MajorProject\Server\Server\Database.Model\obj\Debug\Database.Model.csprojAssemblyReference.cache
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\bin\Debug\Database.Model.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\bin\Debug\Database.Model.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\bin\Debug\Database.Model.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\bin\Debug\EntityFramework.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\bin\Debug\EntityFramework.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\obj\Debug\Database.Model.csprojAssemblyReference.cache
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\obj\Debug\Database.Model.csproj.CoreCompileInputs.cache
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\obj\Debug\Database.Model.csproj.CopyComplete
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\obj\Debug\Database.Model.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Database.Model\obj\Debug\Database.Model.pdb

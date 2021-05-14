@@ -1,0 +1,676 @@
+D:\MovieNexGen\Server\Server\bin\Server.dll.config
+D:\MovieNexGen\Server\Server\bin\Server.dll
+D:\MovieNexGen\Server\Server\bin\Server.pdb
+D:\MovieNexGen\Server\Server\bin\roslyn\csc.exe
+D:\MovieNexGen\Server\Server\bin\roslyn\csc.exe.config
+D:\MovieNexGen\Server\Server\bin\roslyn\csc.rsp
+D:\MovieNexGen\Server\Server\bin\roslyn\csi.exe
+D:\MovieNexGen\Server\Server\bin\roslyn\csi.exe.config
+D:\MovieNexGen\Server\Server\bin\roslyn\csi.rsp
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MovieNexGen\Server\Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MovieNexGen\Server\Server\bin\roslyn\System.AppContext.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Collections.Immutable.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Console.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.IO.Compression.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.IO.FileSystem.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.IO.Pipes.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Reflection.Metadata.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Security.AccessControl.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Security.Claims.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.ValueTuple.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Xml.XPath.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MovieNexGen\Server\Server\bin\roslyn\vbc.exe
+D:\MovieNexGen\Server\Server\bin\roslyn\vbc.exe.config
+D:\MovieNexGen\Server\Server\bin\roslyn\vbc.rsp
+D:\MovieNexGen\Server\Server\bin\roslyn\VBCSCompiler.exe
+D:\MovieNexGen\Server\Server\bin\roslyn\VBCSCompiler.exe.config
+D:\MovieNexGen\Server\Server\bin\Antlr3.Runtime.dll
+D:\MovieNexGen\Server\Server\bin\EntityFramework.dll
+D:\MovieNexGen\Server\Server\bin\EntityFramework.SqlServer.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.Google.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MovieNexGen\Server\Server\bin\Microsoft.Web.Infrastructure.dll
+D:\MovieNexGen\Server\Server\bin\Newtonsoft.Json.dll
+D:\MovieNexGen\Server\Server\bin\Owin.dll
+D:\MovieNexGen\Server\Server\bin\System.Net.Http.Formatting.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.Helpers.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.Http.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.Http.Owin.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.Http.WebHost.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.Mvc.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.Optimization.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.Razor.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.WebPages.Deployment.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.WebPages.dll
+D:\MovieNexGen\Server\Server\bin\System.Web.WebPages.Razor.dll
+D:\MovieNexGen\Server\Server\bin\WebGrease.dll
+D:\MovieNexGen\Server\Server\bin\Newtonsoft.Json.xml
+D:\MovieNexGen\Server\Server\bin\System.Net.Http.Formatting.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.Helpers.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.Http.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.Http.WebHost.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.Mvc.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.Optimization.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.Razor.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.WebPages.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.WebPages.Deployment.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.WebPages.Razor.xml
+D:\MovieNexGen\Server\Server\bin\Antlr3.Runtime.pdb
+D:\MovieNexGen\Server\Server\bin\EntityFramework.xml
+D:\MovieNexGen\Server\Server\bin\EntityFramework.SqlServer.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.Google.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MovieNexGen\Server\Server\bin\System.Web.Http.Owin.xml
+D:\MovieNexGen\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MovieNexGen\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\MovieNexGen\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\MovieNexGen\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\MovieNexGen\Server\Server\obj\Debug\Server.dll
+D:\MovieNexGen\Server\Server\obj\Debug\Server.pdb
+D:\MovieNexGen\Server\Server\bin\Database.Model.dll
+D:\MovieNexGen\Server\Server\bin\Database.Repository.dll
+D:\MovieNexGen\Server\Server\bin\Database.Model.pdb
+D:\MovieNexGen\Server\Server\bin\Database.Model.dll.config
+D:\MovieNexGen\Server\Server\bin\Database.Repository.pdb
+D:\MovieNexGen\Server\Server\bin\Database.Repository.dll.config
+D:\Server\Server\Server\bin\Server.dll.config
+D:\Server\Server\Server\bin\Server.dll
+D:\Server\Server\Server\bin\Server.pdb
+D:\Server\Server\Server\bin\roslyn\csc.exe
+D:\Server\Server\Server\bin\roslyn\csc.exe.config
+D:\Server\Server\Server\bin\roslyn\csc.rsp
+D:\Server\Server\Server\bin\roslyn\csi.exe
+D:\Server\Server\Server\bin\roslyn\csi.exe.config
+D:\Server\Server\Server\bin\roslyn\csi.rsp
+D:\Server\Server\Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Server\Server\Server\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Server\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Server\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Server\Server\Server\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Server\Server\Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Server\Server\Server\bin\roslyn\System.AppContext.dll
+D:\Server\Server\Server\bin\roslyn\System.Collections.Immutable.dll
+D:\Server\Server\Server\bin\roslyn\System.Console.dll
+D:\Server\Server\Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Server\Server\Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Server\Server\Server\bin\roslyn\System.IO.Compression.dll
+D:\Server\Server\Server\bin\roslyn\System.IO.FileSystem.dll
+D:\Server\Server\Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Server\Server\Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Server\Server\Server\bin\roslyn\System.IO.Pipes.dll
+D:\Server\Server\Server\bin\roslyn\System.Reflection.Metadata.dll
+D:\Server\Server\Server\bin\roslyn\System.Security.AccessControl.dll
+D:\Server\Server\Server\bin\roslyn\System.Security.Claims.dll
+D:\Server\Server\Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Server\Server\Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Server\Server\Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Server\Server\Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Server\Server\Server\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Server\Server\Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Server\Server\Server\bin\roslyn\System.ValueTuple.dll
+D:\Server\Server\Server\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Server\Server\Server\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Server\Server\Server\bin\roslyn\System.Xml.XPath.dll
+D:\Server\Server\Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Server\Server\Server\bin\roslyn\vbc.exe
+D:\Server\Server\Server\bin\roslyn\vbc.exe.config
+D:\Server\Server\Server\bin\roslyn\vbc.rsp
+D:\Server\Server\Server\bin\roslyn\VBCSCompiler.exe
+D:\Server\Server\Server\bin\roslyn\VBCSCompiler.exe.config
+D:\Server\Server\Server\bin\Antlr3.Runtime.dll
+D:\Server\Server\Server\bin\DataAccessLayer.dll
+D:\Server\Server\Server\bin\Database.Model.dll
+D:\Server\Server\Server\bin\Database.Repository.dll
+D:\Server\Server\Server\bin\EntityFramework.dll
+D:\Server\Server\Server\bin\EntityFramework.SqlServer.dll
+D:\Server\Server\Server\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Server\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Server\Server\Server\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Server\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Server\Server\Server\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Server\Server\Server\bin\Microsoft.IdentityModel.Logging.dll
+D:\Server\Server\Server\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Google.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Server\Server\Server\bin\Microsoft.Web.Infrastructure.dll
+D:\Server\Server\Server\bin\Newtonsoft.Json.dll
+D:\Server\Server\Server\bin\Owin.dll
+D:\Server\Server\Server\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Server\Server\Server\bin\System.Net.Http.Formatting.dll
+D:\Server\Server\Server\bin\System.Web.Cors.dll
+D:\Server\Server\Server\bin\System.Web.Helpers.dll
+D:\Server\Server\Server\bin\System.Web.Http.Cors.dll
+D:\Server\Server\Server\bin\System.Web.Http.dll
+D:\Server\Server\Server\bin\System.Web.Http.Owin.dll
+D:\Server\Server\Server\bin\System.Web.Http.WebHost.dll
+D:\Server\Server\Server\bin\System.Web.Mvc.dll
+D:\Server\Server\Server\bin\System.Web.Optimization.dll
+D:\Server\Server\Server\bin\System.Web.Razor.dll
+D:\Server\Server\Server\bin\System.Web.WebPages.Deployment.dll
+D:\Server\Server\Server\bin\System.Web.WebPages.dll
+D:\Server\Server\Server\bin\System.Web.WebPages.Razor.dll
+D:\Server\Server\Server\bin\ViewModel.dll
+D:\Server\Server\Server\bin\WebGrease.dll
+D:\Server\Server\Server\bin\DataAccessLayer.pdb
+D:\Server\Server\Server\bin\DataAccessLayer.dll.config
+D:\Server\Server\Server\bin\Database.Model.pdb
+D:\Server\Server\Server\bin\Database.Model.dll.config
+D:\Server\Server\Server\bin\Database.Repository.pdb
+D:\Server\Server\Server\bin\Database.Repository.dll.config
+D:\Server\Server\Server\bin\ViewModel.pdb
+D:\Server\Server\Server\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Server\Server\Server\bin\Microsoft.IdentityModel.Logging.xml
+D:\Server\Server\Server\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Server\Server\Server\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Server\Server\Server\bin\System.Net.Http.Formatting.xml
+D:\Server\Server\Server\bin\System.Web.Http.xml
+D:\Server\Server\Server\bin\System.Web.Http.Cors.xml
+D:\Server\Server\Server\bin\Newtonsoft.Json.xml
+D:\Server\Server\Server\bin\System.Web.Helpers.xml
+D:\Server\Server\Server\bin\System.Web.Http.WebHost.xml
+D:\Server\Server\Server\bin\System.Web.Mvc.xml
+D:\Server\Server\Server\bin\System.Web.Optimization.xml
+D:\Server\Server\Server\bin\System.Web.Razor.xml
+D:\Server\Server\Server\bin\System.Web.WebPages.xml
+D:\Server\Server\Server\bin\System.Web.WebPages.Deployment.xml
+D:\Server\Server\Server\bin\System.Web.WebPages.Razor.xml
+D:\Server\Server\Server\bin\Antlr3.Runtime.pdb
+D:\Server\Server\Server\bin\EntityFramework.xml
+D:\Server\Server\Server\bin\EntityFramework.SqlServer.xml
+D:\Server\Server\Server\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Server\Server\Server\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Server\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Google.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Server\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Server\Server\Server\bin\System.Web.Http.Owin.xml
+D:\Server\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Server\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Server\Server\Server\obj\Debug\Server.dll
+D:\Server\Server\Server\obj\Debug\Server.pdb
+D:\MajorProject\Server\Server\Server\bin\Server.dll.config
+D:\MajorProject\Server\Server\Server\bin\Server.dll
+D:\MajorProject\Server\Server\Server\bin\Server.pdb
+D:\MajorProject\Server\Server\Server\bin\roslyn\csc.exe
+D:\MajorProject\Server\Server\Server\bin\roslyn\csc.exe.config
+D:\MajorProject\Server\Server\Server\bin\roslyn\csc.rsp
+D:\MajorProject\Server\Server\Server\bin\roslyn\csi.exe
+D:\MajorProject\Server\Server\Server\bin\roslyn\csi.exe.config
+D:\MajorProject\Server\Server\Server\bin\roslyn\csi.rsp
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MajorProject\Server\Server\Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.AppContext.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Collections.Immutable.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Console.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.IO.Compression.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.IO.FileSystem.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.IO.Pipes.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Reflection.Metadata.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Security.AccessControl.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Security.Claims.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.ValueTuple.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Xml.XPath.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MajorProject\Server\Server\Server\bin\roslyn\vbc.exe
+D:\MajorProject\Server\Server\Server\bin\roslyn\vbc.exe.config
+D:\MajorProject\Server\Server\Server\bin\roslyn\vbc.rsp
+D:\MajorProject\Server\Server\Server\bin\roslyn\VBCSCompiler.exe
+D:\MajorProject\Server\Server\Server\bin\roslyn\VBCSCompiler.exe.config
+D:\MajorProject\Server\Server\Server\bin\Antlr3.Runtime.dll
+D:\MajorProject\Server\Server\Server\bin\DataAccessLayer.dll
+D:\MajorProject\Server\Server\Server\bin\Database.Model.dll
+D:\MajorProject\Server\Server\Server\bin\Database.Repository.dll
+D:\MajorProject\Server\Server\Server\bin\EntityFramework.dll
+D:\MajorProject\Server\Server\Server\bin\EntityFramework.SqlServer.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.IdentityModel.Logging.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.IdentityModel.Tokens.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Google.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Jwt.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Web.Infrastructure.dll
+D:\MajorProject\Server\Server\Server\bin\Newtonsoft.Json.dll
+D:\MajorProject\Server\Server\Server\bin\Owin.dll
+D:\MajorProject\Server\Server\Server\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\MajorProject\Server\Server\Server\bin\System.Net.Http.Formatting.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Cors.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Helpers.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Http.Cors.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Http.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Http.Owin.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Http.WebHost.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Mvc.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Optimization.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.Razor.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.WebPages.Deployment.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.WebPages.dll
+D:\MajorProject\Server\Server\Server\bin\System.Web.WebPages.Razor.dll
+D:\MajorProject\Server\Server\Server\bin\ViewModel.dll
+D:\MajorProject\Server\Server\Server\bin\WebGrease.dll
+D:\MajorProject\Server\Server\Server\bin\DataAccessLayer.pdb
+D:\MajorProject\Server\Server\Server\bin\DataAccessLayer.dll.config
+D:\MajorProject\Server\Server\Server\bin\Database.Model.pdb
+D:\MajorProject\Server\Server\Server\bin\Database.Model.dll.config
+D:\MajorProject\Server\Server\Server\bin\Database.Repository.pdb
+D:\MajorProject\Server\Server\Server\bin\Database.Repository.dll.config
+D:\MajorProject\Server\Server\Server\bin\ViewModel.pdb
+D:\MajorProject\Server\Server\Server\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.IdentityModel.Logging.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.IdentityModel.Tokens.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Jwt.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MajorProject\Server\Server\Server\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\MajorProject\Server\Server\Server\bin\System.Net.Http.Formatting.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.Http.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.Http.Cors.xml
+D:\MajorProject\Server\Server\Server\bin\Newtonsoft.Json.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.Helpers.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.Http.WebHost.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.Mvc.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.Optimization.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.Razor.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.WebPages.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.WebPages.Deployment.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.WebPages.Razor.xml
+D:\MajorProject\Server\Server\Server\bin\Antlr3.Runtime.pdb
+D:\MajorProject\Server\Server\Server\bin\EntityFramework.xml
+D:\MajorProject\Server\Server\Server\bin\EntityFramework.SqlServer.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Google.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MajorProject\Server\Server\Server\bin\System.Web.Http.Owin.xml
+D:\MajorProject\Server\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MajorProject\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\MajorProject\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\MajorProject\Server\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\MajorProject\Server\Server\Server\obj\Debug\Server.dll
+D:\MajorProject\Server\Server\Server\obj\Debug\Server.pdb
+D:\MajorProject\Server\Server\Server\bin\JWT.dll
+D:\MajorProject\Server\Server\Server\bin\JWT.pdb
+D:\MajorProject\Server\Server\Server\bin\JWT.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Server.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Server.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Server.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csc.exe
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csc.exe.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csc.rsp
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csi.exe
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csi.exe.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csi.rsp
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.AppContext.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Console.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.Compression.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Claims.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.ValueTuple.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\vbc.exe
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\vbc.exe.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\vbc.rsp
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\VBCSCompiler.exe
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Antlr3.Runtime.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\DataAccessLayer.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Model.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Repository.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\EntityFramework.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\EntityFramework.SqlServer.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\JWT.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Newtonsoft.Json.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Owin.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Net.Http.Formatting.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Cors.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Helpers.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.Cors.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.Owin.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.WebHost.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Mvc.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Optimization.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Razor.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\ViewModel.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\WebGrease.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\DataAccessLayer.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\DataAccessLayer.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Model.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Model.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Repository.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Repository.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\ViewModel.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\JWT.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\JWT.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Net.Http.Formatting.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.Cors.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Newtonsoft.Json.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Helpers.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.WebHost.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Mvc.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Optimization.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Razor.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Antlr3.Runtime.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\EntityFramework.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\EntityFramework.SqlServer.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.Owin.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Server.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Server.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Server.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csc.exe
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csc.exe.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csc.rsp
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csi.exe
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csi.exe.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\csi.rsp
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.AppContext.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Collections.Immutable.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Console.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.Compression.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.FileSystem.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.IO.Pipes.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.AccessControl.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Claims.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.ValueTuple.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Xml.XPath.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\vbc.exe
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\vbc.exe.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\vbc.rsp
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\VBCSCompiler.exe
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\roslyn\VBCSCompiler.exe.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Antlr3.Runtime.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\DataAccessLayer.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Model.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Repository.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\EntityFramework.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\EntityFramework.SqlServer.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\JWT.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.Logging.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Google.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Web.Infrastructure.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Newtonsoft.Json.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Owin.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Net.Http.Formatting.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Cors.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Helpers.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.Cors.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.Owin.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.WebHost.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Mvc.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Optimization.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Razor.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.Deployment.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.Razor.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\ViewModel.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\WebGrease.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\DataAccessLayer.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\DataAccessLayer.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Model.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Model.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Repository.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Database.Repository.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\ViewModel.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\JWT.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\JWT.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.Logging.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Net.Http.Formatting.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.Cors.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Newtonsoft.Json.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Helpers.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.WebHost.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Mvc.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Optimization.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Razor.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.Deployment.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.WebPages.Razor.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Antlr3.Runtime.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\EntityFramework.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\EntityFramework.SqlServer.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Google.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\System.Web.Http.Owin.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server\obj\Debug\Server.pdb

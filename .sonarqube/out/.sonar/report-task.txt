@@ -1,0 +1,5 @@
+projectKey=MovieNexGenServer:UserAPI
+serverUrl=http://172.27.12.103:9005
+dashboardUrl=http://172.27.12.103:9005/dashboard/index/MovieNexGenServer:UserAPI
+ceTaskId=AXiMIxeSHHsKviHoRCjK
+ceTaskUrl=http://172.27.12.103:9005/api/ce/task?id=AXiMIxeSHHsKviHoRCjK

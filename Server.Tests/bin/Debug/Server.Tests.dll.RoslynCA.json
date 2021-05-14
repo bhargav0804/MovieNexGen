@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-GB"
+      },
+      "results": [
+        {
+          "ruleId": "CS0414",
+          "level": "warning",
+          "message": "The field 'Usertesting.rev' is assigned but its value is never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MajorProject/Server/Server/Server.Tests/Usertesting.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 16,
+                  "endLine": 11,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        }
+      ],
+      "rules": {
+        "CS0414": {
+          "id": "CS0414",
+          "shortDescription": "Field is assigned but its value is never used",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

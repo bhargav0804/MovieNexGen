@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalysisInput>
+  <Settings>
+    <Setting>
+      <Key>sonar.cs.ignoreHeaderComments</Key>
+      <Value>true</Value>
+    </Setting>
+  </Settings>
+  <Rules>
+  </Rules>
+  <Files>
+    <File>D:\MajorProject\Server\Server\Server\App_Start\BundleConfig.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\App_Start\FilterConfig.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\App_Start\IdentityConfig.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\App_Start\RouteConfig.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\App_Start\Startup.Auth.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\App_Start\WebApiConfig.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Areas\Admin\AdminAreaRegistration.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Areas\Admin\Controllers\AdminController.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Areas\Login\Controllers\AccountController.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Areas\Login\LoginAreaRegistration.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Areas\Movie\Controllers\MovieController.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Areas\Movie\MovieAreaRegistration.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Areas\User\Controllers\UserController.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Areas\User\UserAreaRegistration.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Controllers\HomeController.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Controllers\UsersInfoesController.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Controllers\ValuesController.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Global.asax.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Models\AccountBindingModels.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Models\AccountViewModels.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Models\IdentityModels.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Properties\AssemblyInfo.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Providers\ApplicationOAuthProvider.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Results\ChallengeResult.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\ServerRoleProvider.cs</File>
+    <File>D:\MajorProject\Server\Server\Server\Startup.cs</File>
+  </Files>
+</AnalysisInput>

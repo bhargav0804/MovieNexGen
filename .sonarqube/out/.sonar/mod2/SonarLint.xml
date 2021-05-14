@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalysisInput>
+  <Settings>
+    <Setting>
+      <Key>sonar.cs.ignoreHeaderComments</Key>
+      <Value>true</Value>
+    </Setting>
+  </Settings>
+  <Rules>
+  </Rules>
+  <Files>
+    <File>D:\MajorProject\Server\Server\ViewModel\AddMovieViewModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\AddWatchLaterModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\BlockUserViewModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\GenreViewModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\MovieViewModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\NotificationViewModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\Properties\AssemblyInfo.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\ResponseModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\ReviewViewModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\StarCastViewModel.cs</File>
+    <File>D:\MajorProject\Server\Server\ViewModel\UserViewModel.cs</File>
+  </Files>
+</AnalysisInput>

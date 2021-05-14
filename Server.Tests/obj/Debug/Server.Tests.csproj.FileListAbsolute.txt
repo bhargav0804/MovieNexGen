@@ -1,0 +1,396 @@
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Server.Tests.dll.config
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Server.Tests.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Server.Tests.pdb
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Server.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Helpers.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Http.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Mvc.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Razor.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.WebPages.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Owin.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Optimization.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Owin.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\EntityFramework.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Server.pdb
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Server.dll.config
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Helpers.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Http.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Mvc.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Razor.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.WebPages.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Owin.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Optimization.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\EntityFramework.xml
+D:\MovieNexGen\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\MovieNexGen\Server\Server.Tests\obj\Debug\Server.Tests.csprojAssemblyReference.cache
+D:\MovieNexGen\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CoreCompileInputs.cache
+D:\MovieNexGen\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CopyComplete
+D:\MovieNexGen\Server\Server.Tests\obj\Debug\Server.Tests.dll
+D:\MovieNexGen\Server\Server.Tests\obj\Debug\Server.Tests.pdb
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Server\Server\Server.Tests\bin\Debug\Server.Tests.dll.config
+D:\Server\Server\Server.Tests\bin\Debug\Server.Tests.dll
+D:\Server\Server\Server.Tests\bin\Debug\Server.Tests.pdb
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Server\Server\Server.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Server\Server\Server.Tests\bin\Debug\Server.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Http.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Razor.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Server\Server\Server.Tests\bin\Debug\Owin.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\Server\Server\Server.Tests\bin\Debug\Database.Repository.dll
+D:\Server\Server\Server.Tests\bin\Debug\Database.Model.dll
+D:\Server\Server\Server.Tests\bin\Debug\EntityFramework.dll
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Server\Server\Server.Tests\bin\Debug\Server.pdb
+D:\Server\Server\Server.Tests\bin\Debug\Server.dll.config
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Server\Server\Server.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Http.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Razor.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Server\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\Server\Server\Server.Tests\bin\Debug\Database.Repository.pdb
+D:\Server\Server\Server.Tests\bin\Debug\Database.Repository.dll.config
+D:\Server\Server\Server.Tests\bin\Debug\Database.Model.pdb
+D:\Server\Server\Server.Tests\bin\Debug\Database.Model.dll.config
+D:\Server\Server\Server.Tests\bin\Debug\EntityFramework.xml
+D:\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Server\Server\Server.Tests\obj\Debug\Server.Tests.csprojAssemblyReference.cache
+D:\Server\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CoreCompileInputs.cache
+D:\Server\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CopyComplete
+D:\Server\Server\Server.Tests\obj\Debug\Server.Tests.dll
+D:\Server\Server\Server.Tests\obj\Debug\Server.Tests.pdb
+D:\MajorProject\Server\Server\Server.Tests\obj\Debug\Server.Tests.csprojAssemblyReference.cache
+D:\MajorProject\Server\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CoreCompileInputs.cache
+D:\MajorProject\Server\Server\Server.Tests\obj\Debug\Server.Tests.dll
+D:\MajorProject\Server\Server\Server.Tests\obj\Debug\Server.Tests.pdb
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Server.Tests.dll.config
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Server.Tests.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Server.Tests.pdb
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Database.Model.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\nunit.framework.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Server.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Helpers.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Http.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Mvc.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Razor.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Optimization.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Owin.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Database.Repository.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\ViewModel.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\DataAccessLayer.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\EntityFramework.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Jwt.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Cors.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Database.Model.pdb
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Database.Model.dll.config
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Server.pdb
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Server.dll.config
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\nunit.framework.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Http.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Helpers.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Mvc.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Razor.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Optimization.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Database.Repository.pdb
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Database.Repository.dll.config
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\ViewModel.pdb
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\DataAccessLayer.pdb
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\DataAccessLayer.dll.config
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\EntityFramework.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Jwt.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\MajorProject\Server\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CopyComplete
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Castle.Core.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\NSubstitute.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\Castle.Core.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\NSubstitute.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\nunit.engine.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\nunit.engine.api.dll
+D:\MajorProject\Server\Server\Server.Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.engine.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.Tests.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.Tests.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.Tests.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Castle.Core.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Model.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\NSubstitute.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.framework.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Owin.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Repository.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\ViewModel.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\DataAccessLayer.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\EntityFramework.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Jwt.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Model.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Model.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Castle.Core.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\NSubstitute.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.framework.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Repository.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Repository.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\ViewModel.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\DataAccessLayer.pdb
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\DataAccessLayer.dll.config
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\EntityFramework.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Jwt.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.csprojAssemblyReference.cache
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CopyComplete
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.dll
+C:\Users\bhargavj\Downloads\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.engine.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.engine.api.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.engine.core.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.Tests.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.Tests.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.Tests.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Castle.Core.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Model.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\NSubstitute.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.framework.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Razor.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Owin.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Repository.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\ViewModel.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\DataAccessLayer.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\EntityFramework.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Jwt.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Cors.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Model.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Model.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Server.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Castle.Core.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\NSubstitute.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\nunit.framework.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Razor.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Repository.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Database.Repository.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\ViewModel.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\DataAccessLayer.pdb
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\DataAccessLayer.dll.config
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\EntityFramework.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.Owin.Security.Jwt.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.csprojAssemblyReference.cache
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CoreCompileInputs.cache
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.csproj.CopyComplete
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.dll
+D:\Bhargav_DOTNET_DEC_2020\final project 3\MovieNexGenServer (3)\MovieNexGenServer\Server\Server.Tests\obj\Debug\Server.Tests.pdb

@@ -1,0 +1,10 @@
+D:\Server\Server\ViewModel\bin\Debug\ViewModel.dll
+D:\Server\Server\ViewModel\bin\Debug\ViewModel.pdb
+D:\Server\Server\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\Server\Server\ViewModel\obj\Debug\ViewModel.dll
+D:\Server\Server\ViewModel\obj\Debug\ViewModel.pdb
+D:\MajorProject\Server\Server\ViewModel\bin\Debug\ViewModel.dll
+D:\MajorProject\Server\Server\ViewModel\bin\Debug\ViewModel.pdb
+D:\MajorProject\Server\Server\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\MajorProject\Server\Server\ViewModel\obj\Debug\ViewModel.dll
+D:\MajorProject\Server\Server\ViewModel\obj\Debug\ViewModel.pdb
